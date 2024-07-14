@@ -5,3 +5,11 @@ Console.WriteLine("Master3");
 
 
 
+
+Console.WriteLine("Slave1");
+
+
+Console.WriteLine("Slave22");
+
+
+Console.WriteLine("Slave3");
